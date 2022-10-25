@@ -73,7 +73,7 @@ while (essai < liste.Length && essai < 11 && val == true)
     choix = choix.ToUpper();
     //choix=choix.ToUpper();
     char mot = char.Parse(choix);
-    //
+    //-
 
 
     for (int i = 0; i < liste.Length; i++)
