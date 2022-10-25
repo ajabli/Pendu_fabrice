@@ -1,0 +1,15 @@
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.csproj.AssemblyReference.cache
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.AssemblyInfoInputs.cache
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.AssemblyInfo.cs
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.csproj.CoreCompileInputs.cache
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\bin\Debug\net6.0\kerremansFabrice_pendu.exe
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\bin\Debug\net6.0\kerremansFabrice_pendu.deps.json
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\bin\Debug\net6.0\kerremansFabrice_pendu.runtimeconfig.json
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\bin\Debug\net6.0\kerremansFabrice_pendu.dll
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\bin\Debug\net6.0\kerremansFabrice_pendu.pdb
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.dll
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\refint\kerremansFabrice_pendu.dll
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.pdb
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\kerremansFabrice_pendu.genruntimeconfig.cache
+C:\Users\fabbr\Desktop\travail_pendu C#\Kerremans_Fabrice\kerremansFabrice_pendu\kerremansFabrice_pendu\obj\Debug\net6.0\ref\kerremansFabrice_pendu.dll

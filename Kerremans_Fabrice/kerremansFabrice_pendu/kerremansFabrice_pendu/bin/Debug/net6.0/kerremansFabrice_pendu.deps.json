@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "kerremansFabrice_pendu/1.0.0": {
+        "runtime": {
+          "kerremansFabrice_pendu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kerremansFabrice_pendu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
